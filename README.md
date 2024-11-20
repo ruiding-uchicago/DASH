@@ -1,6 +1,6 @@
 # DASH
 This is the online repository that stores code, data and supplementary figures of the research work: <Leveraging Data Mining, Active Learning, and Domain Adaptation in a Multi-Stage, Machine Learning-Driven Approach for the Efficient Discovery of Advanced Acidic Oxygen Evolution Electrocatalysts> by Rui Ding et. al. (https://arxiv.org/abs/2407.04877)
-![Workflow Schematic](https://github.com/ruiding-uchicago/D.A.S.H./blob/main/Online%20Repository%20Figures/D.A.S.H.%20Workflow.jpg)
+![Workflow Schematic](https://github.com/ruiding-uchicago/DASH/blob/main/Online%20Repository%20Figures/D.A.S.H.%20Workflow.jpg)
 ## Code Description
 
 Our code is written and uploaded on GitHub in Jupyter notebook file format, which is already very easy to conduct and get results. Our code does not include providing a new python library, but users could track how we train machine learning models in Jupyter ipynb files. Also, we have provided all original dataset CSV files to drive the active learning flow. Additionally, we have detailed the python version and package environment used for this work, focusing on machine learning-related packages.
