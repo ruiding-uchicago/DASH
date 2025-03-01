@@ -1,0 +1,65 @@
+﻿Metal_Dopant_1,Metal_Dopant_2,Metal_Dopant_3,Metal_Dopant_4,Sample Name,Category_Label,Metal_Dopant_1_Proportion_Precursor,Metal_Dopant_2_Proportion_Precursor,Metal_Dopant_3_Proportion_Precursor,Metal_Dopant_4_Proportion_Precursor,Hydrothermal/Mixing Temperature (degree),Hydrothermal/Mixing Time (min),Hydrothermal/Mixing Strring/Ultrasonication,Hydrothermal/Mixing Strong Reductant in Liquid,Hydrothermal/Mixing Weak Reductant in Liquid,Hydrothermal/Mixing Mixed in Solid or Liquired,Annealing Temperature (degree),Annealing Rising Rate degree min-1,Annealing Time (min),Annealing Stirring,Annealing Inert Atmosphere,Annealing Reductive Atmosphere,Post ProcessingAcid Wash/Leaching/Quenching/Ultrasonication,Catalyst Loading (mg cm -2),Support Material Loading (mg cm -2),Support not Carbon,Electrode type Glassy Carbon/Carbon Paper (Ti Mesh),LSV Scanning Speed mV s-1,Electrolyte Proton Concentration (M),O2 saturated/1 for yes,Overpotential mV @10 mA cm-2
+Ru,Ni,Mn,Li,B3_400_BEST_#1_Full,best_full_400,61,20,16,3,34,1440,1,0,1,0,400,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,200
+Ru,Ni,Mo,None,B3_400_BEST_#2_Full,best_full_400,74,25,1,0,27,1340,1,0,1,0,400,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,208
+Ru,Mn,Cr,Li,B3_400_BEST_#3_Full,best_full_400,64,21,11,4,25,1440,1,0,1,0,400,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,188
+Ru,Sr,Ir,Li,B3_400_BEST_#4_Full,best_full_400,62,18,13,7,41,1440,1,0,1,0,400,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,207
+Ru,Mn,K,Zr,B3_400_BEST_#5_Full,best_full_400,52,30,13,5,48,770,1,0,0,1,400,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,242
+Ru,Zn,Mn,Li,B3_400_BEST_#6_Full,best_full_400,62,24,11,3,40,1440,1,0,1,0,400,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,182
+Ru,Mn,Zr,Li,B3_400_BEST_#7_Full,best_full_400,62,23,8,7,43,1440,1,0,1,0,400,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,209
+Ru,Zn,Cr,Zr,B3_400_BEST_#8_Full,best_full_400,53,24,15,8,44,1440,1,0,1,0,400,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,196
+Ru,Sr,Ce,Li,B3_400_BEST_#1_High_Quality(#14),best_high_quliaty_400,59,27,12,2,52,1310,1,0,0,0,400,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,225
+Ru,Sr,Ir,Li,B3_400_BEST_#2_High_Quality(#15),best_high_quliaty_400,56,30,9,5,50,1340,1,0,0,0,400,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,219
+Ru,Sr,Ba,Li,B3_400_BEST_#3_High_Quality(#16),best_high_quliaty_400,55,26,11,8,48,920,1,0,1,0,400,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,219
+Ru,Ce,Ba,Li,B3_400_BEST_#4_High_Quality(#17),best_high_quliaty_400,53,29,15,3,29,830,1,0,0,0,400,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,207
+Ru,Sr,Ir,None,B3_400_BEST_#5_High_Quality(#18),best_high_quliaty_400,52,33,15,0,50,1110,1,0,0,0,400,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,189
+Ru,Sr,Er,Nd,B3_400_BEST_#6_High_Quality(#19),best_high_quliaty_400,52,33,9,6,53,920,1,0,1,0,400,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,187
+Ru,Ca,Na,Li,B3_400_BEST_#7_High_Quality(#20),best_high_quliaty_400,48,26,22,4,26,950,1,0,1,0,400,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,225
+Ru,Cr,Ni,Ti,B3_400_BEST_#8_High_Quality(#21),best_high_quliaty_400,42,33,19,6,39,1360,1,0,0,0,400,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,228
+Ba,K,Ru,Nd,B3_400_VARIANCE_#1_Full(#9),variance_full_400,61,22,14,3,43,1440,1,0,0,0,400,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,294
+Ba,Na,Ru,Ni,B3_400_VARIANCE_#2_Full(#10),variance_full_400,42,30,25,3,56,1440,1,0,1,0,400,1.67,120,0,0,0,0,0.5,0,0,0,5,1,1,282
+Ru,Sr,Nb,Pr,B3_400_VARIANCE_#3_Full(#11),variance_full_400,48,26,24,2,60,1320,1,0,1,0,400,1.67,120,0,0,0,0,0.5,0,0,0,5,1,1,263
+Ru,Ba,W,Ni,B3_400_VARIANCE_#4_Full(#12),variance_full_400,40,29,24,7,45,1420,1,0,1,0,400,1.67,120,0,0,0,0,0.5,0,0,0,5,1,1,273
+Na,Ru,Pd,Cr,B3_400_VARIANCE_#5_Full(#13),variance_full_400,40,28,26,6,60,1440,1,0,1,0,400,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,212
+Ba,Na,Ru,Pr,Failed Sample,variance_full_400,55,27,16,2,48,1440,1,0,0,1,400,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,Null
+Ir,Ba,Re,Ag,Failed Sample,variance_full_400,48,28,12,12,27,1440,1,0,0,1,400,1.67,120,0,0,0,0,0.5,0,0,0,5,1,1,Null
+Ir,Ba,Ta,Ni,Failed Sample,variance_full_400,44,36,14,6,42,1440,1,0,1,0,400,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,Null
+Ru,Sr,Ni,Zn,B3_400_VARIANCE_#1_High_Quality(#22),variance_high_quliaty_400,42,30,27,1,29,1440,1,0,0,1,400,1.67,120,0,0,0,0,0.5,0,0,0,5,1,1,193
+Ru,Ca,Na,Li,B3_400_VARIANCE_#2_High_Quality(#23),variance_high_quliaty_400,41,24,24,11,60,1340,1,0,0,1,400,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,188
+Ru,Ba,Ir,Ni,B3_400_VARIANCE_#3_High_Quality(#24),variance_high_quliaty_400,41,28,27,4,59,1440,1,0,0,0,400,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,234
+Ru,K,Mn,Re,B3_400_VARIANCE_#4_High_Quality(#25),variance_high_quliaty_400,40,30,26,4,60,650,1,0,0,0,400,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,237
+Ru,K,Sr,Ni,B3_400_VARIANCE_#5_High_Quality(#26),variance_high_quliaty_400,41,33,24,2,47,1440,1,0,1,0,400,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,211
+Na,Ru,Er,In,Failed Sample,variance_high_quliaty_400,43,27,24,6,60,510,1,0,1,0,400,1.67,120,0,0,0,0,0.5,0,0,0,5,1,1,Null
+Ru,Na,Ni,Nb,Failed Sample,variance_high_quliaty_400,42,26,24,8,46,1440,1,0,1,0,400,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,Null
+Ir,Ba,Re,Ag,Failed Sample,variance_high_quliaty_400,57,29,11,3,31,1440,1,0,0,1,400,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,Null
+Ru,Zn,K,Li,B3_500_BEST_#1_Full,best_full_500,59,18,16,7,25,1000,1,0,0,0,500,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,244
+Ru,Cr,Sm,Li,B3_500_BEST_#2_Full,best_full_500,57,18,16,9,47,1280,1,0,1,0,500,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,195
+Ru,Zn,Ni,Zr,B3_500_BEST_#3_Full,best_full_500,56,21,17,6,41,1440,1,0,1,0,500,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,228
+Ru,Zn,K,Li,B3_500_BEST_#4_Full,best_full_500,54,24,20,2,60,1150,1,0,1,0,500,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,238
+Ru,Mn,La,Ti,B3_500_BEST_#5_Full,best_full_500,53,26,15,6,32,1100,1,0,1,0,500,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,184
+Ru,Zn,Cr,Li,B3_500_BEST_#6_Full,best_full_500,53,30,12,5,50,1440,1,0,1,0,500,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,249
+Ru,Sr,K,Li,B3_500_BEST_#7_Full,best_full_500,49,31,10,10,41,1220,1,0,0,0,500,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,266
+Ru,Sr,K,Li,B3_500_BEST_#8_Full,best_full_500,41,32,17,10,49,1240,1,0,1,0,500,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,275
+Ru,Sr,Pr,Li,B3_500_BEST_#1_High_Quality(#14),best_high_quliaty_500,60,23,10,7,34,1180,1,0,1,0,500,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,194
+Ru,Cr,Sr,None,B3_500_BEST_#2_High_Quality(#15),best_high_quliaty_500,60,30,10,0,60,1220,1,0,0,0,500,1.67,120,0,0,0,0,0.5,0,0,0,5,1,1,221
+Ru,Na,Ti,None,B3_500_BEST_#3_High_Quality(#16),best_high_quliaty_500,54,32,14,0,60,740,1,0,0,0,500,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,238
+Ru,K,Li,Gd,B3_500_BEST_#4_High_Quality(#17),best_high_quliaty_500,53,28,15,4,43,770,1,0,0,0,500,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,217
+Ru,Sr,Na,Li,B3_500_BEST_#5_High_Quality(#18),best_high_quliaty_500,51,27,19,3,38,1170,1,0,1,0,500,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,220
+Ru,Ca,K,Gd,B3_500_BEST_#6_High_Quality(#19),best_high_quliaty_500,48,31,16,5,55,800,1,0,0,0,500,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,186
+Ru,Sr,K,Re,B3_500_BEST_#7_High_Quality(#20),best_high_quliaty_500,46,28,17,9,47,570,1,0,0,0,500,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,217
+Ru,Na,Ca,Ta,B3_500_BEST_#8_High_Quality(#21),best_high_quliaty_500,43,34,21,2,60,420,1,0,1,0,500,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,216
+Na,K,Al,Ir,B3_500_VARIANCE_#1_Full(#9),variance_full_500,38,28,22,12,56,1440,1,0,0,0,500,1.67,120,0,0,0,0,0.5,0,0,0,5,1,1,466
+Na,Ca,Li,Ir,B3_500_VARIANCE_#2_Full(#10),variance_full_500,36,28,25,11,39,1440,1,0,0,0,500,1.67,120,0,0,0,0,0.5,0,0,0,5,1,1,349
+Ir,Ru,Au,K,B3_500_VARIANCE_#3_Full(#11),variance_full_500,49,38,10,3,60,420,1,0,1,0,500,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,273
+Ru,Na,Ir,K,B3_500_VARIANCE_#4_Full(#12),variance_full_500,56,27,14,3,60,440,1,0,0,1,500,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,236
+Ru,Sr,Ni,Na,B3_500_VARIANCE_#5_Full(#13),variance_full_500,43,27,24,6,52,410,1,0,0,0,500,1.67,120,0,0,0,0,0.5,0,0,0,5,1,1,219
+Ca,Ba,K,Ir,Failed Sample,variance_full_500,41,30,16,13,30,1440,1,0,0,1,500,1.67,120,0,0,0,0,0.5,0,0,0,5,1,1,Null
+K,Ba,Al,Ru,Failed Sample,variance_full_500,48,25,15,12,60,1440,1,0,0,0,500,1.67,120,0,0,0,0,0.5,0,0,0,5,1,1,Null
+K,Ba,Na,Ru,Failed Sample,variance_full_500,37,28,19,16,51,1440,1,0,0,1,500,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,Null
+Ru,K,Li,Pr,B3_500_VARIANCE_#1_High_Quality(#22),variance_high_quliaty_500,43,26,25,6,60,1110,1,0,1,0,500,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,174
+Ru,Ba,W,Ni,B3_500_VARIANCE_#2_High_Quality(#23),variance_high_quliaty_500,38,33,24,5,28,1440,1,0,1,0,500,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,229
+Ca,Ru,Ir,Mo,B3_500_VARIANCE_#3_High_Quality(#24),variance_high_quliaty_500,38,33,24,5,60,1440,1,0,0,0,500,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,299
+Ru,Na,Ce,Ni,B3_500_VARIANCE_#4_High_Quality(#25),variance_high_quliaty_500,37,33,26,4,25,1440,1,0,0,0,500,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,259
+Li,Ru,Mn,Ni,B3_500_VARIANCE_#5_High_Quality(#26),variance_high_quliaty_500,34,31,30,5,34,1430,1,0,0,0,500,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,423
+Ca,Li,Ru,Ni,Failed Sample,variance_high_quliaty_500,45,29,20,6,60,900,1,0,0,1,500,1.67,120,0,0,0,0,0.5,0,0,0,5,1,1,Null
+Ru,Mn,Cr,Li,Failed Sample,variance_high_quliaty_500,37,28,22,13,44,1440,1,0,0,1,500,1.67,120,0,0,0,1,0.5,0,0,0,5,1,1,Null
+Na,Ru,Pd,Cr,Failed Sample,variance_high_quliaty_500,42,29,18,11,28,1170,1,0,0,0,500,1.67,120,0,0,0,0,0.5,0,0,0,5,1,1,Null
